@@ -1,4 +1,4 @@
-# 🧠 AI Aptitude Test Generator
+#  AI Aptitude Test Generator
 
 A comprehensive web-based aptitude test application that generates personalized questions using Google Gemini AI. Take timed tests across multiple topics with instant feedback and detailed explanations.
 
