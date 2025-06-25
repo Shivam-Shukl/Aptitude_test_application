@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit>=1.28.0
+google-generativeai>=0.3.0
+
+# Additional Python Libraries (already included in Python standard library)
+json - Built-in
+time - Built-in
+datetime - Built-in
+re - Built-in
+typing - Built-in (Python 3.5+)
+
+# Optional: For enhanced functionality (uncomment if needed)
+pandas>=1.5.0              # For data manipulation if you add analytics
+plotly>=5.0.0              # For interactive charts in results
+sqlite3                    # Built-in, for local database storage
+bcrypt>=4.0.0              # For user authentication if you add login
+python-dotenv>=1.0.0       # For environment variable management
+
+# Development Dependencies (uncomment for development)
+pytest>=7.0.0              # For unit testing
+black>=22.0.0              # For code formatting
+flake8>=5.0.0              # For code linting
+mypy>=1.0.0                # For type checking
