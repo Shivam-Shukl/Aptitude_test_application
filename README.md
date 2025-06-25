@@ -15,6 +15,27 @@ A comprehensive web-based aptitude test application that generates personalized 
 - **📥 Downloadable Reports** - Export test results as text files
 - **📱 Responsive Design** - Works seamlessly on desktop and mobile devices
 
+  # 🚀 Project Demo
+
+## 📸 Screenshots
+
+Here’s a quick look at the interface:
+
+![Screenshot 1](https://github.com/user-attachments/assets/adf7f476-7689-486b-b9f7-f1a710a43f76)
+![Screenshot 2](https://github.com/user-attachments/assets/75e88cc6-7fda-48f7-b3be-7e1363c89c4a)
+
+---
+
+## 🎥 Demo Video
+
+▶️ **Click the link below to watch the video demo**:
+
+👉 [Watch Demo](https://github.com/user-attachments/assets/19a6ede3-67c7-47d8-84a4-c053498829be)
+
+---
+
+
+
 ## 🛠️ Technology Stack
 
 - **Frontend**: Streamlit
