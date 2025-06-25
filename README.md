@@ -30,7 +30,7 @@ Here’s a quick look at the interface:
 
 ▶️ **Click the link below to watch the video demo**:
 
-👉 [Watch Demo](https://github.com/user-attachments/assets/19a6ede3-67c7-47d8-84a4-c053498829be)
+![Watch Demo](https://github.com/user-attachments/assets/19a6ede3-67c7-47d8-84a4-c053498829be)
 
 ---
 
